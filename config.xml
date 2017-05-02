@@ -5,7 +5,7 @@
   id = "com.phonegab.example5"
   version = "1.0.0">
   
-<name> app4 Datos del Dispositivo </name>
+<name> app5 Advertencias de Telefono </name>
 
 <description>
  Aplicacion que realiza la vibración y beep del Dispositivo
